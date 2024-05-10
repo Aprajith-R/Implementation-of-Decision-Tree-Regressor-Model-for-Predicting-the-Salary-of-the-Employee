@@ -45,6 +45,12 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+![Screenshot 2024-05-10 205745](https://github.com/Aprajith-R/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161153978/d9f83654-8e54-462b-b56c-f4461b4c15d9)
+![Screenshot 2024-05-10 205758](https://github.com/Aprajith-R/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161153978/a8b548e5-874e-4617-a5cd-56d87d47edc1)
+![Screenshot 2024-05-10 205810](https://github.com/Aprajith-R/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161153978/21f823d7-1b9f-4d78-9e32-f5f908ec48c8)
+![Screenshot 2024-05-10 205820](https://github.com/Aprajith-R/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161153978/f33bac17-5c47-4ad5-b8cd-2eff86d866ff)
+![Screenshot 2024-05-10 205830](https://github.com/Aprajith-R/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161153978/efb3889e-1790-4060-ae08-8f1ebd6dc278)
+![Screenshot 2024-05-10 205837](https://github.com/Aprajith-R/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161153978/431308d5-85d5-4645-8c5c-6d46b29494c7)
 ![Screenshot 2024-05-10 205900](https://github.com/Aprajith-R/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161153978/7c6ea69b-9fd6-44dc-9da1-2d000306474c)
 
 
